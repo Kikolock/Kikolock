@@ -1,4 +1,8 @@
-Hello there, My name is Icaro and welcome to my Github.
+Hello there, 👋
+
+My name is Icaro and welcome to my Github.
+
+---------------------------------------------
 
 I'm actually doing the Full stack Developer bootcamp at University of Toronto.
 
